@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Gummybearr/Algo-Morgo/#">
-    <img src="https://3.bp.blogspot.com/-bsAe5iHfUvw/XMm2l8YCMtI/AAAAAAAAA28/9-Uj-v3GHhIE06c1_HdSEOeXML1byHInACLcBGAs/s1600/what-is-an-algorithm.png" alt="Logo" width="100%" height="30%">
+    <img src="https://3.bp.blogspot.com/-bsAe5iHfUvw/XMm2l8YCMtI/AAAAAAAAA28/9-Uj-v3GHhIE06c1_HdSEOeXML1byHInACLcBGAs/s1600/what-is-an-algorithm.png" alt="Logo" width="80%" height="20%">
   </a>
 
   <h3 align="center">알고리즘 스터디북</h3>
