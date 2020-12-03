@@ -68,9 +68,9 @@
       </ul>
     </li>
     <li>
-      <a href="/분할정복">분할정복</a>
+      <a href="/분할_정복">분할정복</a>
       <ul>
-        <li><a href="/분할정복/개념.md">개념</a></li>
+        <li><a href="/분할_정복/개념.md">개념</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">동적계획법</a></li>
