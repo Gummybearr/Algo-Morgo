@@ -63,11 +63,16 @@
     <li>
       <a href="/무식하게_풀기">무식하게 풀기</a>
       <ul>
-        <li><a href="/무식하게_풀기/개념">개념</a></li>
-        <li><a href="/무식하게_풀기/문제_풀어보기">문제 풀어보기</a></li>
+        <li><a href="/무식하게_풀기/개념.md">개념</a></li>
+        <li><a href="/무식하게_풀기/문제_풀어보기.md">문제 풀어보기</a></li>
       </ul>
     </li>
-    <li><a href="#usage">분할정복</a></li>
+    <li>
+      <a href="/분할정복">분할정복</a>
+      <ul>
+        <li><a href="/분할정복/개념.md">개념</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">동적계획법</a></li>
     <li><a href="#contributing">TBD</a></li>
     <li><a href="#license">License</a></li>
