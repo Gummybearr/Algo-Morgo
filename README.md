@@ -38,15 +38,15 @@
   <p align="center">
     입문부터 대회용 알고리즘 까지 공부하면서 정리한 내용들
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>독스 살펴보기 »</strong></a>
     <br />
-    <br />
-    <a href="/issues">Report Bug</a>
+    <a href="/issues">버그 제보하기</a>
     ·
-    <a href="/issues">Request Feature</a>
+    <a href="/issues">기능 요청하기</a>
   </p>
 </p>
 
+<br/>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -54,17 +54,17 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="/알고리즘을 시작할 때">알고리즘을 시작할 때</a>
+      <a href="/알고리즘을_시작할_때">알고리즘을 시작할 때</a>
       <ul>
-        <li><a href="/알고리즘을 시작할_때/들어가며">들어가며</a></li>
-        <li><a href="/알고리즘을 시작할 때/문제 해결을 위한 좋은 질문들">문제 해결을 위한 좋은 질문들</a></li>
+        <li><a href="/알고리즘을_시작할_때/들어가며">들어가며</a></li>
+        <li><a href="/알고리즘을_시작할_때/문제_해결을_위한_좋은_질문들">문제 해결을 위한 좋은 질문들</a></li>
       </ul>
     </li>
     <li>
-      <a href="/무식하게 풀기">무식하게 풀기</a>
+      <a href="/무식하게_풀기">무식하게 풀기</a>
       <ul>
-        <li><a href="#prerequisites">개념</a></li>
-        <li><a href="#installation">실습</a></li>
+        <li><a href="/무식하게_풀기/개념">개념</a></li>
+        <li><a href="/무식하게_풀기/문제_풀어보기">문제 풀어보기</a></li>
       </ul>
     </li>
     <li><a href="#usage">분할정복</a></li>
@@ -79,14 +79,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Contributers
+## 함께 만들어가는 분
+<del>아직은 없습니다 흑흑</del>
 
 <br/>
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 함께 만들고 싶다면
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -96,26 +97,18 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+<br/>
 
 <!-- LICENSE -->
-## License
+## 라이센스
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+MIT 라이센스의 규칙을 따릅니다. <a href="LICENCE">라이센스</a>에 대해 궁금하다면 이 곳을 참고하세요.
 
 
+<br/>
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## 사용 및 인용, 참고한 자료들
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
