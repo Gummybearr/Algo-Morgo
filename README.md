@@ -38,14 +38,12 @@
   <p align="center">
     입문부터 대회용 알고리즘 까지 공부하면서 정리한 내용들
     <br />
-    <a href="https://github.com/Gummybearr/Algo-Morgo/#"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Gummybearr/Algo-Morgo/#">View Demo</a>
+    <a href="/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Gummybearr/Algo-Morgo/#">Report Bug</a>
-    ·
-    <a href="https://github.com/Gummybearr/Algo-Morgo/#">Request Feature</a>
+    <a href="/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,14 +54,14 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="/알고리즘을_시작할_때">알고리즘을 시작할 때</a>
+      <a href="/알고리즘을 시작할 때">알고리즘을 시작할 때</a>
       <ul>
-        <li><a href="#built-with">들어가며</a></li>
-        <li><a href="#built-with">문제 해결을 위한 좋은 질문들</a></li>
+        <li><a href="/알고리즘을 시작할_때/들어가며">들어가며</a></li>
+        <li><a href="/알고리즘을 시작할 때/문제 해결을 위한 좋은 질문들">문제 해결을 위한 좋은 질문들</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">무식하게 풀기</a>
+      <a href="/무식하게 풀기">무식하게 풀기</a>
       <ul>
         <li><a href="#prerequisites">개념</a></li>
         <li><a href="#installation">실습</a></li>
