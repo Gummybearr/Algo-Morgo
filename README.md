@@ -56,7 +56,7 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="#about-the-project">알고리즘을 시작할 때</a>
+      <a href="/알고리즘을_시작할_때">알고리즘을 시작할 때</a>
       <ul>
         <li><a href="#built-with">들어가며</a></li>
         <li><a href="#built-with">문제 해결을 위한 좋은 질문들</a></li>
